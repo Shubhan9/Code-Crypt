@@ -51,3 +51,67 @@ If all languages fall, you're left with nothing but... Assembly 😱
 ```bash
 git clone https://github.com/YOUR_USERNAME/Code-Crypt.git
 cd Code-Crypt
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the project locally
+
+```bash
+npm run dev
+```
+
+---
+
+## 📁 Project Structure
+
+```
+.
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── languages.js
+│   ├── utils.js
+│   └── styles.css
+├── package.json
+└── README.md
+```
+
+---
+
+## 💡 What I Learned
+
+This project helped reinforce key React concepts:
+
+- Managing derived state (win/loss logic, incorrect guesses)
+- Component-based architecture
+- Conditional rendering and accessibility (ARIA roles, screen reader support)
+- Using utility libraries like `clsx` for clean class handling
+- Incorporating third-party packages (e.g., react-confetti)
+
+---
+
+## 🏁 Live Demo
+
+🚀 **Coming soon**  
+
+---
+
+## 📜 License
+
+MIT License — feel free to fork, remix, and learn!
+
+---
+
+## 🙌 Acknowledgments
+
+- Scrimba’s Frontend Career Path  
+- Inspired by Hangman, with a dev-themed twist
+
+---
+
+> *"Guess wisely, or suffer the fate of Assembly!"* 🔐
