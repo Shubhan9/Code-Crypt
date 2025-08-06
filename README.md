@@ -2,7 +2,8 @@
 
 A web-based word guessing game where you must protect the programming world from being overrun by Assembly! Inspired by Hangman, but with a developer twist. Built using **React**, this is the final project of Scrimba’s Frontend Developer Career Path.
 
-![Screenshot](./preview.png)
+<img src="./win.jpg" width="300px" >
+<img src="./loss.jpg" width="300px">
 
 ---
 
@@ -114,4 +115,4 @@ MIT License — feel free to fork, remix, and learn!
 
 ---
 
-> *"Guess wisely, or suffer the fate of Assembly!"* 🔐
+> *"Guess wisely, or suffer the fate of Assembly!"* 
